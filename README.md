@@ -45,7 +45,3 @@ github.com/RCselemani
 
 
 
-
-## 👤 Auteur
-RCselemani — Data Analyst en formation
-github.com/RCselemani
